@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafagadoo" alt="mostafagadoo" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,mostafa-gado**
+- 🔭 I’m currently working on [apple website clone](https://github.com/MostafaGadoo/apple-website-clone)
+
+- 🌱 I’m currently learning **React.js,vueJs**
+
+- 💬 Ask me about **Flutter, Java and Spring boot**
 
 - 📫 How to reach me **mostafaa_gado@yahoo.com**
 
