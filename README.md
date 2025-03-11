@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafagadoo" alt="mostafagadoo" /></a> </p>
 
-- 🔭 I’m currently working on [apple website clone](https://github.com/MostafaGadoo/apple-website-clone)
+- 🔭 I’m currently working on [Patient Management](https://github.com/MostafaGadoo/Patient-Management)
 
-- 🌱 I’m currently learning **React.js,vueJs**
+- 🌱 I’m currently learning **React.js,vueJs,NextJs**
 
 - 💬 Ask me about **Flutter, Java and Spring boot**
 
